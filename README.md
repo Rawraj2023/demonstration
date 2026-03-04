@@ -2,6 +2,5 @@
 
 ## Raja Rawat
 
-## Assistant Professor Department of Mathematics
-## 
+## Assistant Professor Department of Data Science CU UP
 
